@@ -8,7 +8,8 @@
 ![Image](/media/proposed_solution_image.jpg)
 <br />
 
-**Special Thanks to PCBONLINE:** This project would not be possible without the assistance of PCBONLINE. Genuinely. They are a one-stop PCBA manufacturer that provides PCB manufacturing, PCB assembly, R&D, and box build assembly for a wide variety of projects. PCBONLINE's team worked with me to bring down the cost of my orders, allowing me to finish the project. PCBONLINE was extremely patient in answering questions, worked with me to ensure a timely delivery schedule, helped resolve delivery issues, and ultimately provided PCBs of high quality for an affordable price.
+**Special Thanks to PCBONLINE:** https://www.pcbonline.com/
+This project would not be possible without the assistance of PCBONLINE. Genuinely. They are a one-stop PCBA manufacturer that provides PCB manufacturing, PCB assembly, R&D, and box build assembly for a wide variety of projects. PCBONLINE's team worked with me to bring down the cost of my orders, allowing me to finish the project. PCBONLINE was extremely patient in answering questions, worked with me to ensure a timely delivery schedule, helped resolve delivery issues, and ultimately provided PCBs of high quality for an affordable price.
 <br />
 
 **Keywords:** Triboelectric Nanogenerator, TENG, Fog Collection, Electrostatic Fog Harp.
